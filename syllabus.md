@@ -86,6 +86,7 @@ Sulla base della guida di riferimento di MarkDown, creare una cartella dentro la
   - controllare le fonti
 3. netiquette
   - Il Manifesto della comunicazione non ostile
+4. Licenze d'uso: Open Source
 
 #### Esercizi
 
@@ -95,6 +96,7 @@ Tavola rotonda con domande e risposte.
 
 ### Lezione 1
 
+- Open Data
 - il versioning
 - git e i repository
 - fork
@@ -126,7 +128,9 @@ Documenthathon.
 
 ### Lezione 1
 
-- Info Desio
+- Info Desio:
+  - storia
+  - obiettivi
 - bot telegram
 - i dataset
 - le web app
