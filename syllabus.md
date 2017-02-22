@@ -1,10 +1,14 @@
 # Attivismo digitale - Civic Hacking (Desio 2017)
 ## Imparare ad usare consapevolmente il proprio computer e Internet, per diventare i protagonisti del benessere della Città.
 
-Corso di 3 moduli (3 lezioni a modulo) MANCA DURATA IN ORE DI MODULI E LEZIONI .
-Costo: 15 € / modulo.
+Corso di 3 moduli (3 lezioni a modulo, 2 ore a lezione).
 
-AGGIUNGEREI QUI CHE OGNI MODULO PUO' ESSERE FRUITO SINGOLARMENTE SENZA COMPROMETTERNE L'UTILITA'
+- 3 lezioni a modulo;
+- durata delle lezioni: 2 ore;
+- orario di inizio: 20:45;
+- costo: 15 € / modulo.
+
+È possibile iscriversi ai moduli preferiti ma per partecipare ai moduli 2 e 3 bisogna dimostrare di possedere le competenze obiettivo dei moduli precedenti.
 
 ## Requisiti
 
@@ -13,31 +17,37 @@ I partecipanti dovranno avere a disposizione:
 - un computer portatile;
 - una connessione ad Internet da casa;
 - uno smartphone (eventualmente connesso a Internet);
-- un indirizzo e-mail;
-
-(quanto è insomma necessario per poter accedere a pagine Internet e per poter spedire e ricevere e-mail).
+- un indirizzo e-mail.
 
 I partecipanti che fossero sprovvisti di uno o più degli strumenti elencati potranno verificare preventivamente con il formatore la compatibilità della propria situazione con la fruizione efficace dei contenuti del corso.
 
-## Necessità di condivisione dati personali: per la partecipazione al corso sarà necessario comunicare al formatore 
+## Competenze di base
+
+È richiesto che i partecipanti siano abituati a ricevere e spedire e-mail e a visionare semplici pagine web.
+
+## Necessità di condivisione dei dati personali
+
+Per la partecipazione al corso sarà necessario comunicare al formatore:
 
 - nome e cognome;
 - indirizzo e-mail;
 - numero di telefono.
 
-Si verrà invitati su un canale [Slack](https://slack.com/). Slack è una piattaforma per la comunicazione tra gruppi di lavoro, una specie di mega chat con un bel po’ di funzionalità in più. In più, Slack aggiunge la possibilità di condividere file in modo facile e veloce e l’integrazione con servizi esterni). Su slack i partecipanti al corso potranno porre domande e ricevere supporto, anche dagli altri partecipanti al corso.
+Si verrà invitati su un canale [Slack](https://slack.com/). Slack è una piattaforma per la comunicazione tra gruppi di lavoro, una specie di mega chat con un bel po’ di funzionalità in più. In più, Slack aggiunge la possibilità di condividere file in modo facile e veloce e l’integrazione con servizi esterni). Su Slack i partecipanti al corso potranno porre domande e ricevere supporto, anche dagli altri partecipanti al corso.
 
 ## MODULO 1: PRENDIAMO CONFIDENZA: COME FUNZIONANO I COMPUTER E INTERNET E CHE FINE FANNO I MIEI DATI E QUELLO CHE CREO IN RETE?
 
 ### Lezione 1.1
-- software e hardware
-- linea di comando
-- filesystem
-- editor di testo: blocco note, Atom
-- MarkDown
+
+- software e hardware;
+- linea di comando;
+- filesystem;
+- editor di testo: blocco note, Atom.
 
 #### Esercizi
-Sulla base della guida di riferimento di MarkDown, creare una cartella dentro la quale salvare alcuni progetti:
+
+Creare una cartella dentro la quale salvare alcuni progetti:
+
 1. film: 3 titoli visti:
   - titolo;
   - voto 1-5;
@@ -46,6 +56,7 @@ Sulla base della guida di riferimento di MarkDown, creare una cartella dentro la
 3. lista delle attività da fare per domani.
 
 ### Lezione 1.2
+
 - client e server
 - browser
 - le pagine web: accenni di HTML, CSS e JavaScript
@@ -57,15 +68,19 @@ Sulla base della guida di riferimento di MarkDown, creare una cartella dentro la
   - Google Maps, OpenStreetMap e umap
   - Info Desio
   - GitHub
+- MarkDown
 
 #### Esercizi
+
 1. creare un account GitHub e condividere il nome utente scelto;
-2. creare un account Telegram e condividere il proprio nome utente.
-3. Creare un repository GitHub;
-4. riversare sul repository i risultati degli esercizi della lezione 1.
-5. ricercare su Wikipedia un argomento di interesse e creare su GitHub un documento MarkDown che contiene titolo, qualche immagine, una breve descrizione e il riferimento al documento web.
+2. creare un account Telegram e condividere il proprio nome utente;
+3. creare un repository GitHub;
+4. riversare sul repository i risultati degli esercizi della lezione 1;
+5. ricercare su Wikipedia un argomento di interesse e creare su GitHub un documento MarkDown che contiene titolo, qualche immagine, una breve descrizione e il riferimento al documento web;
+6. convertire i risultati degli esercizi della lezione 1 in MarkDown;
 
 ### Lezione 1.3
+
 1. sicurezza e privacy online:
   - dove sono i miei dati?
   - crittografia e firma digitale
@@ -93,6 +108,7 @@ Sulla base della guida di riferimento di MarkDown, creare una cartella dentro la
 Vedi [http://www.paroleostili.com/firma-manifesto/](http://www.paroleostili.com/firma-manifesto/)
 
 #### Esercizi
+
 Tavola rotonda con domande e risposte.
 
 ## Modulo 2: Collaboriamo per creare valore in rete!
@@ -117,19 +133,21 @@ TBD
 TBD
 
 ### Lezione 2.3
+
 - Conosci Desio
 
 #### Esercizi
+
 Documenthathon.
 
 ## Modulo 3: Mappathon. Mappiamo la Città per creare conoscenza, facilitare le decisioni, moltiplicere le opportunità. 
 
 ### Lezione 3.1
 
-- [Info Desio](https://info.desio.org/) :
+- [Info Desio](https://info.desio.org/):
   - storia
   - obiettivi
-- bot telegram
+- bot Telegram
 - i dataset
 - le web app
 
@@ -139,12 +157,14 @@ Documenthathon.
 - mappe:
   - coordinate
   - punti e poligoni
-- geojson
+- GeoJSON
 
 #### Esercizi
+
 TBD
 
 ### Lezione 3.3
+
 Preparazione di una Mappathon dalla durata settimanale/mensile su alcune delle seguenti entità:
 
 - alberi (adotta un albero)
