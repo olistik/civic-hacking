@@ -88,6 +88,21 @@ Sulla base della guida di riferimento di MarkDown, creare una cartella dentro la
   - Il Manifesto della comunicazione non ostile
 4. Licenze d'uso: Open Source
 
+#### Il Manifesto della comunicazione non ostile
+
+1. **Virtuale è reale** - Dico o scrivo in rete solo cose che ho il coraggio di dire di persona.
+2. **Si è ciò che si comunica** - Le parole che scelgo raccontano la persona che sono: mi rappresentano.
+3. **Le parole danno forma al pensiero** - Mi prendo tutto il tempo necessario a esprimere al meglio quel che penso.
+4. **Prima di parlare bisogna ascoltare** - Nessuno ha sempre ragione, neanche io. Ascolto con onestà e apertura.
+5. **Le parole sono un ponte** - Scelgo le parole per comprendere, farmi capire, avvicinarmi agli altri.
+6. **Le parole hanno conseguenze** - So che ogni mia parola può avere conseguenze, piccole o grandi.
+7. **Condividere è una responsabilità** - Condivido testi e immagini solo dopo averli letti, valutati, compresi.
+8. **Le idee si possono discutere.Le persone si devono rispettare** - Non trasformo chi sostiene opinioni che non condivido in un nemico da annientare.
+9. **Gli insulti non sono argomenti** - Non accetto insulti e aggressività, nemmeno a favore della mia tesi.
+10. **Anche il silenzio comunica** - Quando la scelta migliore è tacere, taccio.
+
+Vedi [http://www.paroleostili.com/firma-manifesto/](http://www.paroleostili.com/firma-manifesto/)
+
 #### Esercizi
 
 Tavola rotonda con domande e risposte.
