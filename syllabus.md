@@ -140,7 +140,7 @@ TBD
 
 Documenthathon.
 
-## Modulo 3: Mappathon. Mappiamo la Città per creare conoscenza, facilitare le decisioni, moltiplicere le opportunità. 
+## Modulo 3: Mappathon. Mappiamo la Città per creare conoscenza, facilitare le decisioni, moltiplicere le opportunità.
 
 ### Lezione 3.1
 
