@@ -10,6 +10,26 @@ Corso di 3 moduli (3 lezioni a modulo, 2 ore a lezione).
 
 È possibile iscriversi ai moduli preferiti ma per partecipare ai moduli 2 e 3 bisogna dimostrare di possedere le competenze obiettivo dei moduli precedenti.
 
+## Date delle lezioni
+
+### Modulo 1
+
+1. 7 Marzo
+2. 14 Marzo
+3. 21 Marzo
+
+### Modulo 2
+
+1. 28 Marzo
+2. 4 Aprile
+3. 11 Aprile
+
+### Modulo 3
+
+1. 18 Aprile
+2. 2 Maggio (si salta il 25 Aprile)
+3. 9 Maggio
+
 ## Requisiti
 
 I partecipanti dovranno avere a disposizione:
