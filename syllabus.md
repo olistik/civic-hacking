@@ -10,6 +10,8 @@ Corso di 3 moduli (3 lezioni a modulo, 2 ore a lezione).
 
 È possibile iscriversi ai moduli preferiti ma per partecipare ai moduli 2 e 3 bisogna dimostrare di possedere le competenze obiettivo dei moduli precedenti.
 
+Per iscriversi è possibile mandare un'e-mail a [makers@hubdesio.it](mailto:makers@hubdesio.it) o presentarsi direttamente in [HubDesio](https://www.facebook.com/hubdesio), [via Lampugnani 68](https://www.google.it/maps/place/Hubdesio+giovani/@45.6184017,9.2152428,17z/data=!3m1!4b1!4m5!3m4!1s0x4786bc175a3caa77:0xb3ddd1240d29c90e!8m2!3d45.618398!4d9.2174368?hl=en)
+
 ## Date delle lezioni
 
 ### Modulo 1
