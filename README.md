@@ -57,7 +57,7 @@ Per la partecipazione al corso sarà necessario comunicare al formatore:
 
 Si verrà invitati su un canale [Slack](https://slack.com/). Slack è una piattaforma per la comunicazione tra gruppi di lavoro, una specie di mega chat con un bel po’ di funzionalità in più. In più, Slack aggiunge la possibilità di condividere file in modo facile e veloce e l’integrazione con servizi esterni). Su Slack i partecipanti al corso potranno porre domande e ricevere supporto, anche dagli altri partecipanti al corso.
 
-## MODULO 1: PRENDIAMO CONFIDENZA: COME FUNZIONANO I COMPUTER E INTERNET E CHE FINE FANNO I MIEI DATI E QUELLO CHE CREO IN RETE?
+## MODULO 1: PRENDIAMO CONFIDENZA: COME FUNZIONANO I COMPUTER E INTERNET E CHE FINE FANNO I MIEI DATI E QUELLO CHE CREO IN RETE?
 
 ### Lezione 1.1
 
