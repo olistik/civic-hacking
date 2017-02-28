@@ -1,16 +1,28 @@
-# Attivismo digitale - Civic Hacking (Desio 2017)
-## Imparare ad usare consapevolmente il proprio computer e Internet, per diventare i protagonisti del benessere della Città.
+# Civic Hacking - Attivismo digitale, Desio 2017
 
-Corso di 3 moduli (3 lezioni a modulo, 2 ore a lezione).
+## Perché?
 
-- 3 lezioni a modulo;
-- durata delle lezioni: 2 ore;
-- orario di inizio: 20:45;
-- costo: 15 € / modulo.
+Per imparare ad usare consapevolmente il proprio computer e Internet, per diventare i protagonisti del benessere della propria Città.
 
-È possibile iscriversi ai moduli preferiti ma per partecipare ai moduli 2 e 3 bisogna dimostrare di possedere le competenze obiettivo dei moduli precedenti.
+## Cosa imparo?
 
-Per iscriversi è possibile mandare un'e-mail a [makers@hubdesio.it](mailto:makers@hubdesio.it) o presentarsi direttamente in [HubDesio](https://www.facebook.com/hubdesio), [via Lampugnani 68](https://www.google.it/maps/place/Hubdesio+giovani/@45.6184017,9.2152428,17z/data=!3m1!4b1!4m5!3m4!1s0x4786bc175a3caa77:0xb3ddd1240d29c90e!8m2!3d45.618398!4d9.2174368?hl=en)
+Imparerai a capire come funziona il tuo computer, come puoi usarlo per gestire i tuoi documenti e i tuoi dati personali.
+
+1. Scoprirai come funziona Internet e i servizi che molto probabilmente usi ogni giorno (Facebook, Google Maps, e-mail, ecc.);
+2. Imparerai a preservare la tua privacy e a difenderti dai pericoli legati al mondo digitale (attacchi informatici ma anche _bufale_), mantenendo un comportamento rispettoso (_netiquette_);
+3. Infine potrai diventare un utente che crea valore per sé stesso e per la tua città, partecipando alla creazione collaborativa di mappe e documenti, relazionandoti al meglio anche con la Pubblica Amministrazione.
+
+## Come funziona?
+
+È un corso suddiviso in 3 moduli.
+
+Ogni modulo è composto da 3 lezioni da 2 ore ciascuna.
+
+Le lezioni si tengono il martedì sera a partire dalle 20:45, a Desio, presso la [Scuola Secondaria di 1° grado Pertini, in via Milano 345](https://www.google.it/maps/place/Scuola+Secondaria+di+Primo+Grado+Sandro+Pertini,+Via+Milano,+345,+20832+Desio+MB/@45.6272407,9.20296,18z/data=!3m1!4b1!4m5!3m4!1s0x4786bc3863938503:0xd874fdb01aed97f7!8m2!3d45.6271607!4d9.2039654?hl=it).
+
+Ogni modulo costa € 15.
+
+Per iscriversi è possibile mandare un'e-mail a [makers@hubdesio.it](mailto:makers@hubdesio.it) o presentarsi direttamente in [HubDesio](https://www.facebook.com/hubdesio), in [via Lampugnani 68](https://www.google.it/maps/place/Hubdesio+giovani/@45.6184017,9.2152428,17z/data=!3m1!4b1!4m5!3m4!1s0x4786bc175a3caa77:0xb3ddd1240d29c90e!8m2!3d45.618398!4d9.2174368?hl=it)
 
 ## Date delle lezioni
 
@@ -34,18 +46,14 @@ Per iscriversi è possibile mandare un'e-mail a [makers@hubdesio.it](mailto:make
 
 ## Requisiti
 
-I partecipanti dovranno avere a disposizione:
+È preferibile che i partecipanti abbiano a disposizione:
 
 - un computer portatile;
 - una connessione ad Internet da casa;
 - uno smartphone (eventualmente connesso a Internet);
 - un indirizzo e-mail.
 
-I partecipanti che fossero sprovvisti di uno o più degli strumenti elencati potranno verificare preventivamente con il formatore la compatibilità della propria situazione con la fruizione efficace dei contenuti del corso.
-
-## Competenze di base
-
-È richiesto che i partecipanti siano abituati a ricevere e spedire e-mail e a visionare semplici pagine web.
+I partecipanti che fossero sprovvisti di uno o più degli strumenti elencati potranno verificare preventivamente con il formatore ([Maurizio De Magnis](https://olisti.co/)) la possibilità di partecipare al corso.
 
 ## Necessità di condivisione dei dati personali
 
@@ -55,9 +63,9 @@ Per la partecipazione al corso sarà necessario comunicare al formatore:
 - indirizzo e-mail;
 - numero di telefono.
 
-Si verrà invitati su un canale [Slack](https://slack.com/). Slack è una piattaforma per la comunicazione tra gruppi di lavoro, una specie di mega chat con un bel po’ di funzionalità in più. In più, Slack aggiunge la possibilità di condividere file in modo facile e veloce e l’integrazione con servizi esterni). Su Slack i partecipanti al corso potranno porre domande e ricevere supporto, anche dagli altri partecipanti al corso.
+Si verrà invitati su un canale [Slack](https://slack.com/), una piattaforma che permetterà ai partecipanti di porre domande, ricevere e fornire supporto.
 
-## MODULO 1: PRENDIAMO CONFIDENZA: COME FUNZIONANO I COMPUTER E INTERNET E CHE FINE FANNO I MIEI DATI E QUELLO CHE CREO IN RETE?
+## MODULO 1 - PRENDIAMO CONFIDENZA: COME FUNZIONANO I COMPUTER E INTERNET E CHE FINE FANNO I MIEI DATI E QUELLO CHE CREO IN RETE?
 
 ### Lezione 1.1
 
