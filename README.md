@@ -46,14 +46,14 @@ Per iscriversi è possibile mandare un'e-mail a [makers@hubdesio.it](mailto:make
 
 ## Requisiti
 
-È preferibile che i partecipanti abbiano a disposizione:
+È **auspicabile** che i partecipanti abbiano a disposizione:
 
 - un computer portatile;
 - una connessione ad Internet da casa;
 - uno smartphone (eventualmente connesso a Internet);
 - un indirizzo e-mail.
 
-I partecipanti che fossero sprovvisti di uno o più degli strumenti elencati potranno verificare preventivamente con il formatore ([Maurizio De Magnis](https://olisti.co/)) la possibilità di partecipare al corso.
+I partecipanti che fossero sprovvisti di uno o più degli strumenti elencati potranno verificare preventivamente con il formatore ([Maurizio De Magnis](https://olisti.co/)) la modalità di fruizione dei contenuti del corso più congeniale alla strumentazione disponibile.
 
 ## Necessità di condivisione dei dati personali
 
