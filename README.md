@@ -1,5 +1,7 @@
 # Civic Hacking - Attivismo digitale, Desio 2017
 
+Chat di gruppo (Slack): [civic-hacking.slack.com](https://civic-hacking.slack.com)
+
 ## Perché?
 
 Per imparare ad usare consapevolmente il proprio computer e Internet, per diventare i protagonisti del benessere della propria Città.
