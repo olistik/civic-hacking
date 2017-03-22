@@ -57,6 +57,8 @@ Per iscriversi è possibile mandare un'e-mail a [makers@hubdesio.it](mailto:make
 
 I partecipanti che fossero sprovvisti di uno o più degli strumenti elencati potranno verificare preventivamente con il formatore ([Maurizio De Magnis](https://olisti.co/)) la modalità di fruizione dei contenuti del corso più congeniale alla strumentazione disponibile.
 
+Il formatore è contattabile via e-mail all'indirizzo [root@olisti.co](mailto:root@olisti.co) o tramite i riferimenti web disponibili sul sito [olisti.co](https://olisti.co).
+
 ## Necessità di condivisione dei dati personali
 
 Per la partecipazione al corso sarà necessario comunicare al formatore:
